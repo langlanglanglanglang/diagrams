@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-11T04:05:32.022Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36" etag="xAxfTC6u6QJOmgVw8YMn" version="14.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-11T04:12:31.804Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36" etag="8AlBT59ya0y_1uAjijG7" version="14.0.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2066" dy="1129" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -39,6 +39,15 @@
         </mxCell>
         <mxCell id="vJJwCiKW4x-NMOz0RY16-1" value="&lt;span&gt;通过查询到的数据计算条数&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vJJwCiKW4x-NMOz0RY16-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vJJwCiKW4x-NMOz0RY16-11" target="vJJwCiKW4x-NMOz0RY16-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vJJwCiKW4x-NMOz0RY16-11" value="修改上限" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="500" y="80" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vJJwCiKW4x-NMOz0RY16-12" value="更新mongo并删除redis数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="495" y="210" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
