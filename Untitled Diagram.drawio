@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-19T02:29:08.753Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36" etag="qIopkem6CAKIc6Mz5CUL" version="14.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-19T05:57:10.101Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36" etag="sReBNHYMuGRbjUiBDBMy" version="14.0.1" type="github">
   <diagram id="7MIxT5UIpUdMo_QVejmj" name="Page-1">
     <mxGraphModel dx="2066" dy="1129" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -169,6 +169,31 @@
         </mxCell>
         <mxCell id="LFSgbuKOP7hiEkza39Ik-32" value="安装和更新应用时是否自动加载拓展菜单和扩展点" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="580" y="480" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LFSgbuKOP7hiEkza39Ik-45" value="菜单文件夹表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="1260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LFSgbuKOP7hiEkza39Ik-46" value="菜单表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="1260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LFSgbuKOP7hiEkza39Ik-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LFSgbuKOP7hiEkza39Ik-47" target="LFSgbuKOP7hiEkza39Ik-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LFSgbuKOP7hiEkza39Ik-50" value="文件夹ID" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LFSgbuKOP7hiEkza39Ik-48">
+          <mxGeometry x="0.1556" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LFSgbuKOP7hiEkza39Ik-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LFSgbuKOP7hiEkza39Ik-47" target="LFSgbuKOP7hiEkza39Ik-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LFSgbuKOP7hiEkza39Ik-51" value="菜单ID" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LFSgbuKOP7hiEkza39Ik-49">
+          <mxGeometry x="-0.1778" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LFSgbuKOP7hiEkza39Ik-47" value="关联表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="1260" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
