@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-06T03:53:43.011Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36" etag="CPrt9Mi2RIkwMaIpAmKQ" version="14.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-06T03:56:14.606Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36" etag="DAvVkavoJ8mbTjZ34_ea" version="14.1.8" type="github">
   <diagram id="GqKOqFa_LnSLoMzZh2zW" name="Page-1">
     <mxGraphModel dx="2066" dy="1129" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -49,6 +49,12 @@
         </mxCell>
         <mxCell id="sLybfmZlKdAoe-mEPf5w-17" value="订单状态转完成" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="365" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sLybfmZlKdAoe-mEPf5w-20" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="1000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sLybfmZlKdAoe-mEPf5w-21" value="添加回款计划流程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="40" width="580" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
