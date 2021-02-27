@@ -1,1 +1,108 @@
-<mxfile host="app.diagrams.net" modified="2021-02-27T01:55:11.814Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36" version="14.4.2" etag="7mlbVI3IVN67nkXaw4gl" type="github"><diagram id="r1Gakr1PTzEvJYovQfUS">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-02-27T02:05:03.203Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36" etag="UwoacDeS0Q05wTub7Ccv" version="14.4.2" type="github">
+  <diagram id="r1Gakr1PTzEvJYovQfUS" name="Page-1">
+    <mxGraphModel dx="2066" dy="1129" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="SU_u3KIcmy3_ibGlyKdL-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="SU_u3KIcmy3_ibGlyKdL-1" target="SU_u3KIcmy3_ibGlyKdL-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="235" y="180" />
+              <mxPoint x="410" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SU_u3KIcmy3_ibGlyKdL-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SU_u3KIcmy3_ibGlyKdL-1" target="SU_u3KIcmy3_ibGlyKdL-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="235" y="390" />
+              <mxPoint x="410" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SU_u3KIcmy3_ibGlyKdL-1" value="&lt;span style=&quot;color: rgb(17 , 17 , 17) ; font-family: &amp;#34;sf pro&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , , &amp;#34;noto sans cjk sc&amp;#34; , sans-serif , &amp;#34;roboto&amp;#34; , &amp;#34;droid sans&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;tahoma&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;heiti sc&amp;#34; ; font-size: 14.6667px ; text-align: left&quot;&gt;联系记录&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="270" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SU_u3KIcmy3_ibGlyKdL-3" value="获取企业可以看到的联系人数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SU_u3KIcmy3_ibGlyKdL-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="SU_u3KIcmy3_ibGlyKdL-7" target="SU_u3KIcmy3_ibGlyKdL-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SU_u3KIcmy3_ibGlyKdL-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SU_u3KIcmy3_ibGlyKdL-7" target="SU_u3KIcmy3_ibGlyKdL-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SU_u3KIcmy3_ibGlyKdL-7" value="&lt;span style=&quot;color: rgb(17 , 17 , 17) ; font-size: 14.6667px ; text-align: left&quot;&gt;销售机会&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SU_u3KIcmy3_ibGlyKdL-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SU_u3KIcmy3_ibGlyKdL-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="140" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="590" y="180" />
+              <mxPoint x="410" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SU_u3KIcmy3_ibGlyKdL-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SU_u3KIcmy3_ibGlyKdL-8" target="SU_u3KIcmy3_ibGlyKdL-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="590" y="390" />
+              <mxPoint x="410" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SU_u3KIcmy3_ibGlyKdL-8" value="&lt;span style=&quot;color: rgb(17 , 17 , 17) ; font-size: 14.6667px ; text-align: left&quot;&gt;订单&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SU_u3KIcmy3_ibGlyKdL-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="SU_u3KIcmy3_ibGlyKdL-9" target="SU_u3KIcmy3_ibGlyKdL-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="770" y="180" />
+              <mxPoint x="410" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SU_u3KIcmy3_ibGlyKdL-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SU_u3KIcmy3_ibGlyKdL-9" target="SU_u3KIcmy3_ibGlyKdL-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="770" y="390" />
+              <mxPoint x="410" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SU_u3KIcmy3_ibGlyKdL-9" value="&lt;span style=&quot;color: rgb(17 , 17 , 17) ; font-size: 14.6667px ; text-align: left&quot;&gt;发票回款&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SU_u3KIcmy3_ibGlyKdL-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="SU_u3KIcmy3_ibGlyKdL-10" target="SU_u3KIcmy3_ibGlyKdL-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="60" y="180" />
+              <mxPoint x="410" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SU_u3KIcmy3_ibGlyKdL-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SU_u3KIcmy3_ibGlyKdL-10" target="SU_u3KIcmy3_ibGlyKdL-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="60" y="390" />
+              <mxPoint x="410" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SU_u3KIcmy3_ibGlyKdL-10" value="&lt;span style=&quot;color: rgb(17 , 17 , 17) ; font-size: 14.6667px ; text-align: left&quot;&gt;呼叫/短信联系人&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SU_u3KIcmy3_ibGlyKdL-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SU_u3KIcmy3_ibGlyKdL-16" target="SU_u3KIcmy3_ibGlyKdL-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SU_u3KIcmy3_ibGlyKdL-16" value="聚合数据" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="460" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SU_u3KIcmy3_ibGlyKdL-22" value="返回" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
